@@ -1,0 +1,3452 @@
+{
+  "id": 67184313,
+  "categories": [],
+  "authors": [],
+  "url": "/content/dam/lists/1/3/z/z/q/x/list.html",
+  "lastModified": 1609754551711,
+  "onTime": 1425955024417,
+  "sponsored": false,
+  "displayName": "AFR iPad Editor's Choice",
+  "assets": [
+    {
+      "id": 1520368135,
+      "categories": [
+        {
+          "name": "North America",
+          "sectionPath": "/news/world/north-america",
+          "orderNum": 0
+        }
+      ],
+      "authors": [],
+      "url": "http://www.afr.com/news/world/north-america/ivanka-the-inevitable-20210103-p56rk7",
+      "lastModified": 1609751617797,
+      "sponsored": false,
+      "headline": "Ivanka the inevitable?",
+      "indexHeadline": "Ivanka the inevitable?",
+      "tabletHeadline": "",
+      "theAbstract": "After four years as a \"senior adviser\" in her father's administration, Ivanka Trump seems to be preparing her own political career.",
+      "byLine": "Nina L. Khrushcheva",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [
+        {
+          "id": 1520355442,
+          "categories": [
+            {
+              "name": "North America",
+              "sectionPath": "/news/world/north-america",
+              "orderNum": 0
+            }
+          ],
+          "authors": [],
+          "url": "http://www.afr.com/news/world/north-america/ivanka-and-jared-look-for-a-new-beginning-20201124-p56hrm",
+          "lastModified": 1606367306139,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Ivanka and Jared look for a new beginning",
+          "timeStamp": 1606338000000
+        },
+        {
+          "id": 1520345330,
+          "categories": [
+            {
+              "name": "North America",
+              "sectionPath": "/news/world/north-america",
+              "orderNum": 0
+            }
+          ],
+          "authors": [
+            {
+              "name": "Joe Aston",
+              "title": "Columnist",
+              "email": "joe.aston@afr.com ",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1030192038,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/c/l/9/i/image.imgtype.afrWoodcutAuthorImage.140x140.png/1553046073852.png",
+                  "lastModified": 1553046073852,
+                  "sponsored": false,
+                  "description": "",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1553046073852
+                }
+              ]
+            }
+          ],
+          "url": "http://www.afr.com/news/world/north-america/trumpism-has-taken-over-what-is-the-future-of-the-gop-20201029-p569yq",
+          "lastModified": 1604044864149,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Trumpism has taken over; What is the future of the GOP?",
+          "timeStamp": 1604018112000
+        }
+      ],
+      "relatedImages": [
+        {
+          "id": 1030904364,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/u/w/c/image.related.afrArticleLead.1536x1010.p56rk7.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1604284868307,
+          "sponsored": false,
+          "description": "Ivanka Trump reacts on stage as President Donald Trump speaks at a campaign rally in November in Dubuque, Iowa. ",
+          "photographer": "AP Photo/Charlie Neibergall",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1604284868307
+        },
+        {
+          "id": 1030904364,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/u/w/c/image.related.articleLeadwide.1500x844.p56rk7.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1604284868307,
+          "sponsored": false,
+          "description": "Ivanka Trump reacts on stage as President Donald Trump speaks at a campaign rally in November in Dubuque, Iowa. ",
+          "photographer": "AP Photo/Charlie Neibergall",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1604284868307
+        },
+        {
+          "id": 1015598812,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/s/n/t/2/4/image.related.articleLeadwide.1500x844.p56rk7.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1479698725942,
+          "sponsored": false,
+          "description": "Heirs apparent? Melania Trump, Ivanka Trump, Eric Trump and Donald Trump, Jr",
+          "photographer": "AP",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1479698725942
+        },
+        {
+          "id": 1015598812,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/s/n/t/2/4/image.related.afrArticleInline.620x0.p56rk7.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1479698725942,
+          "sponsored": false,
+          "description": "Heirs apparent? Melania Trump, Ivanka Trump, Eric Trump and Donald Trump, Jr",
+          "photographer": "AP",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1479698725942
+        },
+        {
+          "id": 1030963750,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/t/4/p/y/image.related.wideLandscape.1500x844.p56rk7.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1609470495367,
+          "sponsored": false,
+          "description": "President Trump's daughter Ivanka Trump may be preparing for a political career to continue the family's legacy.",
+          "photographer": "AP",
+          "type": "wideLandscape",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1609470495367
+        },
+        {
+          "id": 1030963750,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/t/4/p/y/image.related.thumbnail.375x250.p56rk7.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1609470495367,
+          "sponsored": false,
+          "description": "President Trump's daughter Ivanka Trump may be preparing for a political career to continue the family's legacy.",
+          "photographer": "AP",
+          "type": "thumbnail",
+          "width": 375,
+          "height": 250,
+          "assetType": "IMAGE",
+          "timeStamp": 1609470495367
+        },
+        {
+          "id": 1030963750,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/t/4/p/y/image.related.afrIndexLead.1536x1010.p56rk7.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1609470495367,
+          "sponsored": false,
+          "description": "President Trump's daughter Ivanka Trump may be preparing for a political career to continue the family's legacy.",
+          "photographer": "AP",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1609470495367
+        },
+        {
+          "id": 1030963750,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/t/4/p/y/image.related.landscape.1174x783.p56rk7.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1609470495367,
+          "sponsored": false,
+          "description": "President Trump's daughter Ivanka Trump may be preparing for a political career to continue the family's legacy.",
+          "photographer": "AP",
+          "type": "landscape",
+          "width": 1174,
+          "height": 783,
+          "assetType": "IMAGE",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1609470495367
+        }
+      ],
+      "signPost": "OPINION",
+      "companies": [],
+      "legalStatus": "None",
+      "sources": [
+        {
+          "tagId": "AFR"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "Ivanka the inevitable?",
+        "overrideAbstract": "After four years as a \"senior adviser\" in her father's administration, Ivanka Trump seems to be preparing her own political career."
+      },
+      "timeStamp": 1609719246000
+    },
+    {
+      "id": 1520368119,
+      "categories": [
+        {
+          "name": "Chanticleer",
+          "sectionPath": "/brand/chanticleer",
+          "orderNum": 0
+        }
+      ],
+      "authors": [
+        {
+          "name": "Chanticleer",
+          "title": "Columnist",
+          "email": "",
+          "relatedAssets": [],
+          "relatedImages": [
+            {
+              "id": 1030117386,
+              "categories": [],
+              "brands": [],
+              "authors": [],
+              "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/a/z/n/u/image.imgtype.afrWoodcutAuthorImage.140x140.png/1549519435387.jpg",
+              "lastModified": 1549519435387,
+              "sponsored": false,
+              "description": "",
+              "photographer": "",
+              "type": "afrWoodcutAuthorImage",
+              "width": 140,
+              "height": 140,
+              "assetType": "IMAGE",
+              "timeStamp": 1549519435387
+            },
+            {
+              "id": 67385547,
+              "categories": [],
+              "brands": [],
+              "authors": [],
+              "url": "https://www.fairfaxstatic.com.au/content/dam/images/1/4/4/b/0/r/image.imgtype.afrWoodcutAuthorImage.140x140.png/1426357827234.png",
+              "lastModified": 1426357827234,
+              "sponsored": false,
+              "description": " ",
+              "photographer": "",
+              "type": "afrWoodcutAuthorImage",
+              "width": 140,
+              "height": 140,
+              "assetType": "IMAGE",
+              "timeStamp": 1426357827234
+            }
+          ]
+        }
+      ],
+      "url": "http://www.afr.com/brand/chanticleer/link-board-under-pressure-after-bidder-walks-20210103-p56rjr",
+      "lastModified": 1609750554130,
+      "sponsored": false,
+      "headline": "Link board under pressure after bidder walks",
+      "indexHeadline": "Link board under pressure after bidder walks",
+      "tabletHeadline": "",
+      "theAbstract": "Takeover negotiations are always tricky, even more so when the board of the target company is facing a revolt from shareholders keen to get out.",
+      "byLine": "Tony Boyd",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [
+        {
+          "id": 1520359171,
+          "categories": [
+            {
+              "name": "Commercial",
+              "sectionPath": "/real-estate/commercial",
+              "orderNum": 0
+            }
+          ],
+          "authors": [
+            {
+              "name": "Michael Bleby",
+              "title": "Senior Reporter",
+              "email": "mbleby@afr.com.au",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1030202028,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/c/s/z/0/image.imgtype.afrWoodcutAuthorImage.140x140.png/1553561488738.png",
+                  "lastModified": 1553561488738,
+                  "sponsored": false,
+                  "description": "",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1553561488738
+                }
+              ]
+            }
+          ],
+          "url": "http://www.afr.com/real-estate/commercial/competition-boss-rod-sims-threatens-to-cut-pexa-s-prices-20201204-p56kn7",
+          "lastModified": 1607259600000,
+          "onTime": 1607259600000,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Competition boss Rod Sims threatens to cut PEXA's prices",
+          "timeStamp": 1607259600000
+        },
+        {
+          "id": 1520368149,
+          "categories": [
+            {
+              "name": "Development",
+              "sectionPath": "/real-estate/commercial/development",
+              "orderNum": 0
+            }
+          ],
+          "authors": [
+            {
+              "name": "Michael Bleby",
+              "title": "Senior Reporter",
+              "email": "mbleby@afr.com.au",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1030202028,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/c/s/z/0/image.imgtype.afrWoodcutAuthorImage.140x140.png/1553561488738.png",
+                  "lastModified": 1553561488738,
+                  "sponsored": false,
+                  "description": "",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1553561488738
+                }
+              ]
+            }
+          ],
+          "url": "http://www.afr.com/real-estate/commercial/development/lendlease-and-awaresuper-partner-on-780m-la-project-20210103-p56rkl",
+          "lastModified": 1609743855059,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Lendlease and Aware Super partner on $780m LA project",
+          "timeStamp": 1609741598000
+        }
+      ],
+      "relatedImages": [
+        {
+          "id": 1030965478,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/t/6/1/y/image.related.wideLandscape.1500x844.p56rjr.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1609741296201,
+          "sponsored": false,
+          "description": "Link Administration chairman Michael Carapiet played hard ball and lost.",
+          "photographer": "David Rowe",
+          "type": "wideLandscape",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1609741296201
+        },
+        {
+          "id": 1030965478,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/t/6/1/y/image.related.thumbnail.375x250.p56rjr.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1609741296201,
+          "sponsored": false,
+          "description": "Link Administration chairman Michael Carapiet played hard ball and lost.",
+          "photographer": "David Rowe",
+          "type": "thumbnail",
+          "width": 375,
+          "height": 250,
+          "assetType": "IMAGE",
+          "timeStamp": 1609741296201
+        },
+        {
+          "id": 1030965478,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/t/6/1/y/image.related.afrArticleLead.1536x1010.p56rjr.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1609741296201,
+          "sponsored": false,
+          "description": "Link Administration chairman Michael Carapiet played hard ball and lost.",
+          "photographer": "David Rowe",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1609741296201
+        },
+        {
+          "id": 1030965478,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/t/6/1/y/image.related.articleLeadwide.1500x844.p56rjr.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1609741296201,
+          "sponsored": false,
+          "description": "Link Administration chairman Michael Carapiet played hard ball and lost.",
+          "photographer": "David Rowe",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1609741296201
+        },
+        {
+          "id": 1030965478,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/t/6/1/y/image.related.afrIndexLead.1536x1010.p56rjr.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1609741296201,
+          "sponsored": false,
+          "description": "Link Administration chairman Michael Carapiet played hard ball and lost.",
+          "photographer": "David Rowe",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1609741296201
+        },
+        {
+          "id": 1030965478,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/t/6/1/y/image.related.landscape.1174x783.p56rjr.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1609741296201,
+          "sponsored": false,
+          "description": "Link Administration chairman Michael Carapiet played hard ball and lost.",
+          "photographer": "David Rowe",
+          "type": "landscape",
+          "width": 1174,
+          "height": 783,
+          "assetType": "IMAGE",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1609741296201
+        }
+      ],
+      "signPost": "OPINION",
+      "companies": [],
+      "legalStatus": "None",
+      "sources": [
+        {
+          "tagId": "AFR"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "Link board under pressure after bidder walks",
+        "overrideAbstract": "Takeover negotiations are always tricky, even more so when the board of the target company is facing a revolt from shareholders keen to get out."
+      },
+      "timeStamp": 1609741271000
+    },
+    {
+      "id": 1520360923,
+      "categories": [
+        {
+          "name": "Lifestyle",
+          "sectionPath": "/lifestyle",
+          "orderNum": 0
+        }
+      ],
+      "authors": [],
+      "url": "http://www.afr.com/lifestyle/obama-on-reading-writing-and-radical-empathy-20201228-p56lzv",
+      "lastModified": 1609740188782,
+      "sponsored": false,
+      "headline": "Obama on reading, writing and radical empathy",
+      "indexHeadline": "Obama on reading, writing and radical empathy",
+      "tabletHeadline": "",
+      "theAbstract": "The former president speaks to Michiko Kakutani about the experience of writing his book and the formative role that reading has played, since his teenage years, in shaping his thinking, his views on politics and history, and his own writing.",
+      "byLine": "Michiko Kakutani",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [
+        {
+          "id": 1520349034,
+          "categories": [
+            {
+              "name": "North America",
+              "sectionPath": "/news/world/north-america",
+              "orderNum": 0
+            }
+          ],
+          "authors": [],
+          "url": "http://www.afr.com/news/world/north-america/obama-s-presidential-style-gets-another-term-20201109-p56ctm",
+          "lastModified": 1604895448203,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Obama's presidential style gets another term",
+          "timeStamp": 1604893486000
+        },
+        {
+          "id": 1520355286,
+          "categories": [
+            {
+              "name": "North America",
+              "sectionPath": "/news/world/north-america",
+              "orderNum": 0
+            }
+          ],
+          "authors": [
+            {
+              "name": "Edward Luce",
+              "title": "Columnist",
+              "email": "",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1030337835,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/f/p/r/f/image.imgtype.afrWoodcutAuthorImage.140x140.png/1561531030295.png",
+                  "lastModified": 1561531030295,
+                  "sponsored": false,
+                  "description": " ",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1561531030295
+                }
+              ]
+            }
+          ],
+          "url": "http://www.afr.com/news/world/north-america/obama-s-memoir-is-a-ripping-read-until-he-gets-to-the-white-house-20201124-p56hna",
+          "lastModified": 1606273815377,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Obama’s memoir is a ripping read until he gets to the White House",
+          "timeStamp": 1606262623000
+        }
+      ],
+      "relatedImages": [
+        {
+          "id": 1030919514,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/s/6/l/6/image.related.articleLeadNarrow.706x0.p56lzv.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1605236184976,
+          "sponsored": false,
+          "description": "Barack Obama's memoir, A Promised Land, is as much an introspective self-portrait as a historical record.   ",
+          "photographer": "  ",
+          "type": "articleLeadNarrow",
+          "width": 706,
+          "height": 0,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "timeStamp": 1605236184976
+        },
+        {
+          "id": 1030965281,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/t/5/w/h/image.related.afrArticleLead.1536x1010.p56lzv.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1609730367963,
+          "sponsored": false,
+          "description": "Barack Obama and Vladimir Putin, Obama describes the Russian leader in his book as someone whose voice evinced a \"practiced disinterest\".",
+          "photographer": "AFP",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1609730367822
+        },
+        {
+          "id": 1030965281,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/t/5/w/h/image.related.articleLeadwide.1500x844.p56lzv.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1609730367963,
+          "sponsored": false,
+          "description": "Barack Obama and Vladimir Putin, Obama describes the Russian leader in his book as someone whose voice evinced a \"practiced disinterest\".",
+          "photographer": "AFP",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1609730367822
+        },
+        {
+          "id": 1022248444,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/g/w/m/b/y/4/image.related.articleLeadNarrow.706x0.p56lzv.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1496810104553,
+          "sponsored": false,
+          "description": "James Baldwin in the Oscar-nominated documentary film I Am Not Your Negro. Obama says Baldwin's books had a big impact on him.",
+          "photographer": "AP",
+          "type": "articleLeadNarrow",
+          "width": 706,
+          "height": 0,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "timeStamp": 1496810104553
+        },
+        {
+          "id": 1030960179,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/t/1/y/r/image.related.wideLandscape.1500x844.p56lzv.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1609044944030,
+          "sponsored": false,
+          "description": "Plans to build a Barack Obama library in Chicago have hit planning roadblocks.",
+          "photographer": "AP",
+          "type": "wideLandscape",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1609044944030
+        },
+        {
+          "id": 1030960179,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/t/1/y/r/image.related.thumbnail.375x250.p56lzv.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1609044944030,
+          "sponsored": false,
+          "description": "Plans to build a Barack Obama library in Chicago have hit planning roadblocks.",
+          "photographer": "AP",
+          "type": "thumbnail",
+          "width": 375,
+          "height": 250,
+          "assetType": "IMAGE",
+          "timeStamp": 1609044944030
+        },
+        {
+          "id": 1030960179,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/t/1/y/r/image.related.afrIndexLead.1536x1010.p56lzv.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1609044944030,
+          "sponsored": false,
+          "description": "Plans to build a Barack Obama library in Chicago have hit planning roadblocks.",
+          "photographer": "AP",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1609044944030
+        },
+        {
+          "id": 1030960179,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/t/1/y/r/image.related.landscape.1174x783.p56lzv.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1609044944030,
+          "sponsored": false,
+          "description": "Plans to build a Barack Obama library in Chicago have hit planning roadblocks.",
+          "photographer": "AP",
+          "type": "landscape",
+          "width": 1174,
+          "height": 783,
+          "assetType": "IMAGE",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1609044944030
+        }
+      ],
+      "companies": [],
+      "legalStatus": "None",
+      "sources": [
+        {
+          "tagId": "The New York Times"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "Obama on reading, writing and radical empathy",
+        "overrideAbstract": "The former president speaks to Michiko Kakutani about the experience of writing his book and the formative role that reading has played, since his teenage years, in shaping his thinking, his views on politics and history, and his own writing."
+      },
+      "timeStamp": 1609736043000
+    },
+    {
+      "id": 1520368106,
+      "categories": [
+        {
+          "name": "Management",
+          "sectionPath": "/leadership/management",
+          "orderNum": 0
+        }
+      ],
+      "authors": [],
+      "url": "http://www.afr.com/leadership/management/what-business-learnt-in-the-time-of-coronavirus-20210103-p56rje",
+      "lastModified": 1609734389247,
+      "sponsored": false,
+      "headline": "What business learnt in the time of coronavirus",
+      "indexHeadline": "What business learnt in the time of coronavirus",
+      "tabletHeadline": "",
+      "theAbstract": "Most chief executives are preparing for the volatility of 2020 to continue even if the global economy starts to recover.",
+      "byLine": "Andrew Hill",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [
+        {
+          "id": 1520364047,
+          "categories": [
+            {
+              "name": "Leadership",
+              "sectionPath": "/leadership",
+              "orderNum": 0
+            }
+          ],
+          "authors": [
+            {
+              "name": "Sally Patten",
+              "title": "BOSS Editor",
+              "email": "spatten@afr.com ",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1030192484,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/c/l/l/w/image.imgtype.afrWoodcutAuthorImage.140x140.png/1553053454261.png",
+                  "lastModified": 1553053454261,
+                  "sponsored": false,
+                  "description": "",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1553053454261
+                }
+              ]
+            }
+          ],
+          "url": "http://www.afr.com/leadership/boss-s-most-memorable-articles-of-2020-20201217-p56oen",
+          "lastModified": 1609354833512,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "BOSS’s most memorable articles of 2020",
+          "timeStamp": 1609354808000
+        },
+        {
+          "id": 1520329979,
+          "categories": [
+            {
+              "name": "Leadership",
+              "sectionPath": "/leadership",
+              "orderNum": 0
+            }
+          ],
+          "authors": [
+            {
+              "name": "Sally Patten",
+              "title": "BOSS Editor",
+              "email": "spatten@afr.com ",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1030192484,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/c/l/l/w/image.imgtype.afrWoodcutAuthorImage.140x140.png/1553053454261.png",
+                  "lastModified": 1553053454261,
+                  "sponsored": false,
+                  "description": "",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1553053454261
+                }
+              ]
+            }
+          ],
+          "url": "http://www.afr.com/leadership/what-business-can-learn-from-sport-and-the-military-20200922-p55y4b",
+          "lastModified": 1600925644996,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "What business can learn from sport and the military",
+          "timeStamp": 1600925619000
+        }
+      ],
+      "relatedImages": [
+        {
+          "id": 1030869976,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/4/d/4/image.related.wideLandscape.1500x844.p56rje.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1601598365191,
+          "sponsored": false,
+          "description": "Closed parasols stand on an empty beach in Legian, Bali. The skills some business heads have had to develop over the past nine months have parallels with those that military commanders draw on as they shift from peace to war.",
+          "photographer": "Bloomberg",
+          "type": "wideLandscape",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1601598365191
+        },
+        {
+          "id": 1030869976,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/4/d/4/image.related.thumbnail.375x250.p56rje.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1601598365191,
+          "sponsored": false,
+          "description": "Closed parasols stand on an empty beach in Legian, Bali. The skills some business heads have had to develop over the past nine months have parallels with those that military commanders draw on as they shift from peace to war.",
+          "photographer": "Bloomberg",
+          "type": "thumbnail",
+          "width": 375,
+          "height": 250,
+          "assetType": "IMAGE",
+          "timeStamp": 1601598365191
+        },
+        {
+          "id": 1030869976,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/4/d/4/image.related.afrArticleLead.1536x1010.p56rje.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1601598365191,
+          "sponsored": false,
+          "description": "Closed parasols stand on an empty beach in Legian, Bali. The skills some business heads have had to develop over the past nine months have parallels with those that military commanders draw on as they shift from peace to war.",
+          "photographer": "Bloomberg",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1601598365191
+        },
+        {
+          "id": 1030869976,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/4/d/4/image.related.articleLeadwide.1500x844.p56rje.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1601598365191,
+          "sponsored": false,
+          "description": "Closed parasols stand on an empty beach in Legian, Bali. The skills some business heads have had to develop over the past nine months have parallels with those that military commanders draw on as they shift from peace to war.",
+          "photographer": "Bloomberg",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1601598365191
+        },
+        {
+          "id": 1030869976,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/4/d/4/image.related.afrIndexLead.1536x1010.p56rje.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1601598365191,
+          "sponsored": false,
+          "description": "Closed parasols stand on an empty beach in Legian, Bali. The skills some business heads have had to develop over the past nine months have parallels with those that military commanders draw on as they shift from peace to war.",
+          "photographer": "Bloomberg",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1601598365191
+        },
+        {
+          "id": 1030869976,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/4/d/4/image.related.landscape.1174x783.p56rje.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1601598365191,
+          "sponsored": false,
+          "description": "Closed parasols stand on an empty beach in Legian, Bali. The skills some business heads have had to develop over the past nine months have parallels with those that military commanders draw on as they shift from peace to war.",
+          "photographer": "Bloomberg",
+          "type": "landscape",
+          "width": 1174,
+          "height": 783,
+          "assetType": "IMAGE",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1601598365191
+        },
+        {
+          "id": 1030803533,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/p/p/3/h/image.related.articleLeadwide.1500x844.p56rje.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1596088838410,
+          "sponsored": false,
+          "description": "Jeff Bezos started joining daily calls on the minutiae of inventory, COVID-19 testing, and day-to-day communications. ",
+          "photographer": "AP ",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1596088838410
+        },
+        {
+          "id": 1030803533,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/p/p/3/h/image.related.afrArticleInline.620x0.p56rje.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1596088838410,
+          "sponsored": false,
+          "description": "Jeff Bezos started joining daily calls on the minutiae of inventory, COVID-19 testing, and day-to-day communications. ",
+          "photographer": "AP ",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1596088838410
+        },
+        {
+          "id": 1030051022,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/9/k/g/e/image.related.articleLeadwide.1500x844.p56rje.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1546208193315,
+          "sponsored": false,
+          "description": "Stanley McChrystal: “The [military] leaders that we have grown for bureaucratic processes, they’re brave, they’re smart, they’re disciplined, but most of them are not ready for that onslaught of data that tells them [something] different from what they expected.\" ",
+          "photographer": "AP",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1546208193315
+        },
+        {
+          "id": 1030051022,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/9/k/g/e/image.related.afrArticleInline.620x0.p56rje.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1546208193315,
+          "sponsored": false,
+          "description": "Stanley McChrystal: “The [military] leaders that we have grown for bureaucratic processes, they’re brave, they’re smart, they’re disciplined, but most of them are not ready for that onslaught of data that tells them [something] different from what they expected.\" ",
+          "photographer": "AP",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1546208193315
+        }
+      ],
+      "signPost": "ANALYSIS",
+      "companies": [],
+      "legalStatus": "None",
+      "sources": [
+        {
+          "tagId": "AFR"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "What business learnt in the time of coronavirus",
+        "overrideAbstract": "Most chief executives are preparing for the volatility of 2020 to continue even if the global economy starts to recover."
+      },
+      "timeStamp": 1609713809000
+    },
+    {
+      "id": 1520368140,
+      "categories": [
+        {
+          "name": "Education",
+          "sectionPath": "/news/policy/education",
+          "orderNum": 0
+        }
+      ],
+      "authors": [
+        {
+          "name": "Finbar O'Mallon",
+          "title": "Canberra Times reporter",
+          "email": "finbar.omallon@canberratimes.com.au",
+          "relatedAssets": [],
+          "relatedImages": []
+        }
+      ],
+      "url": "http://www.afr.com/news/policy/education/states-clash-over-hotel-quarantine-as-expat-infections-rise-20210103-p56rkc",
+      "lastModified": 1609751702336,
+      "sponsored": false,
+      "headline": "States clash over hotel quarantine as expat infections rise",
+      "indexHeadline": "States clash over hotel quarantine as expat infections rise",
+      "tabletHeadline": "",
+      "theAbstract": "Experts warn more leaks from NSW's hotel quarantine are inevitable as NSW and Western Australia trade blows over their respective programs.",
+      "byLine": "Finbar O'Mallon",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [
+        {
+          "id": 1520368158,
+          "categories": [
+            {
+              "name": "Education",
+              "sectionPath": "/news/policy/education",
+              "orderNum": 0
+            }
+          ],
+          "authors": [
+            {
+              "name": "Aaron Patrick",
+              "title": "Senior Correspondent",
+              "email": "apatrick@afr.com.au",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1030191568,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/c/k/w/g/image.imgtype.afrWoodcutAuthorImage.140x140.png/1553037326256.png",
+                  "lastModified": 1553037326256,
+                  "sponsored": false,
+                  "description": "",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1553037326256
+                }
+              ]
+            }
+          ],
+          "url": "http://www.afr.com/news/policy/education/sydney-cricket-test-to-be-limited-to-12-000-spectators-20210104-p56rku",
+          "lastModified": 1609750190295,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Howzat! Crowds stumped by virus rules as SCG capacity slashed",
+          "timeStamp": 1609728038000
+        },
+        {
+          "id": 1520368180,
+          "categories": [
+            {
+              "name": "Health",
+              "sectionPath": "/business/health",
+              "orderNum": 0
+            }
+          ],
+          "authors": [],
+          "url": "http://www.afr.com/business/health/we-had-anti-virus-tools-last-year-but-next-time-we-won-t-be-so-lucky-20210104-p56rlg",
+          "lastModified": 1609734797550,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "We had anti-virus tools last year, but next time we won't be so lucky",
+          "timeStamp": 1609734617000
+        }
+      ],
+      "relatedImages": [
+        {
+          "id": 1030965174,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/t/5/t/i/image.related.wideLandscape.1500x844.p56rkc.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1609723505282,
+          "sponsored": false,
+          "description": "NSW Chief Health Officer Kerry Chant says the state's hotel quarantine program has been hosting growing numbers of infected returned travellers.",
+          "photographer": " Brook Mitchell",
+          "type": "wideLandscape",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1609723505282
+        },
+        {
+          "id": 1030965174,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/t/5/t/i/image.related.thumbnail.375x250.p56rkc.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1609723505282,
+          "sponsored": false,
+          "description": "NSW Chief Health Officer Kerry Chant says the state's hotel quarantine program has been hosting growing numbers of infected returned travellers.",
+          "photographer": " Brook Mitchell",
+          "type": "thumbnail",
+          "width": 375,
+          "height": 250,
+          "assetType": "IMAGE",
+          "timeStamp": 1609723505282
+        },
+        {
+          "id": 1030965174,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/t/5/t/i/image.related.afrArticleLead.1536x1010.p56rkc.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1609723505282,
+          "sponsored": false,
+          "description": "NSW Chief Health Officer Kerry Chant says the state's hotel quarantine program has been hosting growing numbers of infected returned travellers.",
+          "photographer": " Brook Mitchell",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1609723505282
+        },
+        {
+          "id": 1030965174,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/t/5/t/i/image.related.articleLeadwide.1500x844.p56rkc.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1609723505282,
+          "sponsored": false,
+          "description": "NSW Chief Health Officer Kerry Chant says the state's hotel quarantine program has been hosting growing numbers of infected returned travellers.",
+          "photographer": " Brook Mitchell",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1609723505282
+        },
+        {
+          "id": 1030965174,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/t/5/t/i/image.related.afrIndexLead.1536x1010.p56rkc.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1609723505282,
+          "sponsored": false,
+          "description": "NSW Chief Health Officer Kerry Chant says the state's hotel quarantine program has been hosting growing numbers of infected returned travellers.",
+          "photographer": " Brook Mitchell",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1609723505282
+        },
+        {
+          "id": 1030965174,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/t/5/t/i/image.related.landscape.1174x783.p56rkc.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1609723505282,
+          "sponsored": false,
+          "description": "NSW Chief Health Officer Kerry Chant says the state's hotel quarantine program has been hosting growing numbers of infected returned travellers.",
+          "photographer": " Brook Mitchell",
+          "type": "landscape",
+          "width": 1174,
+          "height": 783,
+          "assetType": "IMAGE",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1609723505282
+        }
+      ],
+      "companies": [],
+      "legalStatus": "None",
+      "sources": [
+        {
+          "tagId": "AFR"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "States clash over hotel quarantine as expat infections rise",
+        "overrideAbstract": "Experts warn more leaks from NSW's hotel quarantine are inevitable as NSW and Western Australia trade blows over their respective programs."
+      },
+      "timeStamp": 1609735832000
+    },
+    {
+      "id": 1520368197,
+      "categories": [
+        {
+          "name": "Media & Marketing",
+          "sectionPath": "/business/media-and-marketing",
+          "orderNum": 0
+        }
+      ],
+      "authors": [],
+      "url": "http://www.afr.com/business/media-and-marketing/will-you-pay-to-stream-comfort-shows-discovery-is-about-to-find-out-20210104-p56rlx",
+      "lastModified": 1609728048793,
+      "sponsored": false,
+      "headline": "Will you pay to stream comfort shows? Discovery is about to find out",
+      "indexHeadline": "Will you pay to stream comfort shows? Discovery is about to find out",
+      "tabletHeadline": "",
+      "theAbstract": "Discovery+ is a late entrant to a crowded streaming field and will cost $US5 a month with commercials or $US7 without them.",
+      "byLine": "John Koblin",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [
+        {
+          "id": 1520265672,
+          "categories": [
+            {
+              "name": "Media & Marketing",
+              "sectionPath": "/business/media-and-marketing",
+              "orderNum": 0
+            }
+          ],
+          "authors": [
+            {
+              "name": "Max Mason",
+              "title": "Media & Marketing Editor",
+              "email": "max.mason@afr.com",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1030200281,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/c/r/m/h/image.imgtype.afrWoodcutAuthorImage.140x140.png/1553477420914.png",
+                  "lastModified": 1553477420914,
+                  "sponsored": false,
+                  "description": "",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1553477420914
+                }
+              ]
+            }
+          ],
+          "url": "http://www.afr.com/business/media-and-marketing/foxtel-hopes-streaming-binge-will-boost-subscribers-amid-covid-19-20200416-p54ki0",
+          "lastModified": 1589871327236,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Foxtel hopes streaming Binge will boost subscribers amid COVID-19",
+          "timeStamp": 1587304800000
+        },
+        {
+          "id": 1520361730,
+          "categories": [
+            {
+              "name": "Media & Marketing",
+              "sectionPath": "/business/media-and-marketing",
+              "orderNum": 0
+            }
+          ],
+          "authors": [
+            {
+              "name": "Max Mason",
+              "title": "Media & Marketing Editor",
+              "email": "max.mason@afr.com",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1030200281,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/c/r/m/h/image.imgtype.afrWoodcutAuthorImage.140x140.png/1553477420914.png",
+                  "lastModified": 1553477420914,
+                  "sponsored": false,
+                  "description": "",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1553477420914
+                }
+              ]
+            }
+          ],
+          "url": "http://www.afr.com/business/media-and-marketing/disney-ramps-up-australian-streaming-plans-with-star-20201210-p56mma",
+          "lastModified": 1607641472074,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Disney ramps up Australian streaming plans with Star",
+          "timeStamp": 1607641338000
+        }
+      ],
+      "relatedImages": [
+        {
+          "id": 1029880792,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/5/x/3/s/image.related.afrArticleLead.1536x1010.p56rlx.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1537967427276,
+          "sponsored": false,
+          "description": "Judi Dench is one of the major stars coming to Discovery+ in Judi Dench's Wild Borneo Adventure.",
+          "photographer": "AP",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1537967427276
+        },
+        {
+          "id": 1029880792,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/5/x/3/s/image.related.articleLeadwide.1500x844.p56rlx.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1537967427276,
+          "sponsored": false,
+          "description": "Judi Dench is one of the major stars coming to Discovery+ in Judi Dench's Wild Borneo Adventure.",
+          "photographer": "AP",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1537967427276
+        },
+        {
+          "id": 1030456403,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/i/9/8/z/image.related.wideLandscape.1500x844.p56rlx.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1569125508176,
+          "sponsored": false,
+          "description": "Competition in the streaming video market has intensified with the introduction of Discovery+",
+          "photographer": "Sam Mooy",
+          "type": "wideLandscape",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1569125508176
+        },
+        {
+          "id": 1030456403,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/i/9/8/z/image.related.thumbnail.375x250.p56rlx.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1569125508176,
+          "sponsored": false,
+          "description": "Competition in the streaming video market has intensified with the introduction of Discovery+",
+          "photographer": "Sam Mooy",
+          "type": "thumbnail",
+          "width": 375,
+          "height": 250,
+          "assetType": "IMAGE",
+          "timeStamp": 1569125508176
+        },
+        {
+          "id": 1030456403,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/i/9/8/z/image.related.afrIndexLead.1536x1010.p56rlx.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1569125508176,
+          "sponsored": false,
+          "description": "Competition in the streaming video market has intensified with the introduction of Discovery+",
+          "photographer": "Sam Mooy",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1569125508176
+        },
+        {
+          "id": 1030456403,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/i/9/8/z/image.related.landscape.1174x783.p56rlx.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1569125508176,
+          "sponsored": false,
+          "description": "Competition in the streaming video market has intensified with the introduction of Discovery+",
+          "photographer": "Sam Mooy",
+          "type": "landscape",
+          "width": 1174,
+          "height": 783,
+          "assetType": "IMAGE",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1569125508176
+        }
+      ],
+      "companies": [],
+      "legalStatus": "None",
+      "sources": [
+        {
+          "tagId": "The New York Times"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "Will you pay to stream comfort shows? Discovery is about to find out",
+        "overrideAbstract": "Discovery+ is a late entrant to a crowded streaming field and will cost $US5 a month with commercials or $US7 without them."
+      },
+      "timeStamp": 1609725128000
+    },
+    {
+      "id": 1520368191,
+      "categories": [
+        {
+          "name": "Equity Markets",
+          "sectionPath": "/markets/equity-markets",
+          "orderNum": 0
+        }
+      ],
+      "authors": [
+        {
+          "name": "Jonathan Shapiro",
+          "title": "Senior Reporter",
+          "email": "jonathan.shapiro@afr.com ",
+          "relatedAssets": [],
+          "relatedImages": [
+            {
+              "id": 1030192045,
+              "categories": [],
+              "brands": [],
+              "authors": [],
+              "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/c/l/9/p/image.imgtype.afrWoodcutAuthorImage.140x140.png/1553046422192.png",
+              "lastModified": 1553046422192,
+              "sponsored": false,
+              "description": "",
+              "photographer": "",
+              "type": "afrWoodcutAuthorImage",
+              "width": 140,
+              "height": 140,
+              "assetType": "IMAGE",
+              "timeStamp": 1553046422192
+            }
+          ]
+        }
+      ],
+      "url": "http://www.afr.com/markets/equity-markets/value-investors-to-go-big-in-2021-20210104-p56rlr",
+      "lastModified": 1609736301869,
+      "sponsored": false,
+      "headline": "Value investors to go big in 2021",
+      "indexHeadline": "Value investors to go big in 2021",
+      "tabletHeadline": "",
+      "theAbstract": "The pandemic means Australia's cheapest stocks are also among its largest. A value approach, in an academic sense, means buying more banks and miners.",
+      "byLine": "Jonathan Shapiro",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [
+        {
+          "id": 1520360966,
+          "categories": [
+            {
+              "name": "Investment Banking",
+              "sectionPath": "/business/banking-and-finance/investment-banking",
+              "orderNum": 0
+            }
+          ],
+          "authors": [],
+          "url": "http://www.afr.com/business/banking-and-finance/investment-banking/a-lot-of-chatter-about-value-post-covid-perpetual-20201209-p56m12",
+          "lastModified": 1607490657637,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Signs are aligned for rally in value stocks, say fundies",
+          "timeStamp": 1607487517000
+        },
+        {
+          "id": 1520361896,
+          "categories": [
+            {
+              "name": "Chanticleer",
+              "sectionPath": "/brand/chanticleer",
+              "orderNum": 0
+            }
+          ],
+          "authors": [
+            {
+              "name": "Chanticleer",
+              "title": "Columnist",
+              "email": "",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1030117386,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/a/z/n/u/image.imgtype.afrWoodcutAuthorImage.140x140.png/1549519435387.jpg",
+                  "lastModified": 1549519435387,
+                  "sponsored": false,
+                  "description": "",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1549519435387
+                },
+                {
+                  "id": 67385547,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/1/4/4/b/0/r/image.imgtype.afrWoodcutAuthorImage.140x140.png/1426357827234.png",
+                  "lastModified": 1426357827234,
+                  "sponsored": false,
+                  "description": " ",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1426357827234
+                }
+              ]
+            }
+          ],
+          "url": "http://www.afr.com/brand/chanticleer/why-value-investing-is-back-in-vogue-20201211-p56mqw",
+          "lastModified": 1607691600000,
+          "onTime": 1607691600000,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Why value investing is back in vogue",
+          "timeStamp": 1607691600000
+        }
+      ],
+      "relatedImages": [
+        {
+          "id": 1030356944,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/g/4/i/8/image.related.wideLandscape.1500x844.p56rlr.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1562808385874,
+          "sponsored": false,
+          "description": "The value investing approach has steered more funds into the big banks.",
+          "photographer": "David Rowe",
+          "type": "wideLandscape",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1562808385597
+        },
+        {
+          "id": 1030356944,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/g/4/i/8/image.related.thumbnail.375x250.p56rlr.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1562808385874,
+          "sponsored": false,
+          "description": "The value investing approach has steered more funds into the big banks.",
+          "photographer": "David Rowe",
+          "type": "thumbnail",
+          "width": 375,
+          "height": 250,
+          "assetType": "IMAGE",
+          "timeStamp": 1562808385597
+        },
+        {
+          "id": 1030356944,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/g/4/i/8/image.related.afrArticleLead.1536x1010.p56rlr.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1562808385874,
+          "sponsored": false,
+          "description": "The value investing approach has steered more funds into the big banks.",
+          "photographer": "David Rowe",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1562808385597
+        },
+        {
+          "id": 1030356944,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/g/4/i/8/image.related.articleLeadwide.1500x844.p56rlr.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1562808385874,
+          "sponsored": false,
+          "description": "The value investing approach has steered more funds into the big banks.",
+          "photographer": "David Rowe",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1562808385597
+        },
+        {
+          "id": 1030356944,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/g/4/i/8/image.related.afrIndexLead.1536x1010.p56rlr.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1562808385874,
+          "sponsored": false,
+          "description": "The value investing approach has steered more funds into the big banks.",
+          "photographer": "David Rowe",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1562808385597
+        },
+        {
+          "id": 1030356944,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/g/4/i/8/image.related.landscape.1174x783.p56rlr.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1562808385874,
+          "sponsored": false,
+          "description": "The value investing approach has steered more funds into the big banks.",
+          "photographer": "David Rowe",
+          "type": "landscape",
+          "width": 1174,
+          "height": 783,
+          "assetType": "IMAGE",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1562808385597
+        }
+      ],
+      "signPost": "ANALYSIS",
+      "companies": [],
+      "legalStatus": "None",
+      "sources": [
+        {
+          "tagId": "AFR"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "Value investors to go big in 2021",
+        "overrideAbstract": "The pandemic means Australia's cheapest stocks are also among its largest. A value approach, in an academic sense, means buying more banks and miners."
+      },
+      "timeStamp": 1609735734000
+    },
+    {
+      "id": 1520368180,
+      "categories": [
+        {
+          "name": "Health",
+          "sectionPath": "/business/health",
+          "orderNum": 0
+        }
+      ],
+      "authors": [],
+      "url": "http://www.afr.com/business/health/we-had-anti-virus-tools-last-year-but-next-time-we-won-t-be-so-lucky-20210104-p56rlg",
+      "lastModified": 1609734797550,
+      "sponsored": false,
+      "headline": "We had anti-virus tools last year, but next time we won't be so lucky",
+      "indexHeadline": "We had anti-virus tools last year, but next time we won't be so lucky",
+      "tabletHeadline": "",
+      "theAbstract": "When the sequence of the virus was published last January, it took only 48 hours to devise a vaccine formula. The next pandemic may catch us unprepared.",
+      "byLine": "Andrew P. Feinberg",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [
+        {
+          "id": 1520365728,
+          "categories": [
+            {
+              "name": "North America",
+              "sectionPath": "/news/world/north-america",
+              "orderNum": 0
+            }
+          ],
+          "authors": [],
+          "url": "http://www.afr.com/news/world/north-america/no-vaccine-can-end-americas-pandemic-of-ignorance-and-irrationality-20201222-p56ppc",
+          "lastModified": 1608670195520,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "No vaccine can end America's pandemic of ignorance and irrationality",
+          "timeStamp": 1608670179000
+        },
+        {
+          "id": 1520365034,
+          "categories": [
+            {
+              "name": "Europe",
+              "sectionPath": "/news/world/europe",
+              "orderNum": 0
+            }
+          ],
+          "authors": [],
+          "url": "http://www.afr.com/news/world/europe/scientists-alarmed-at-spread-of-covid-mutant-20201220-p56p62",
+          "lastModified": 1608513982998,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Scientists alarmed at spread of COVID-19 mutant",
+          "timeStamp": 1608503203000
+        }
+      ],
+      "relatedImages": [
+        {
+          "id": 1030724823,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/o/0/d/3/image.related.wideLandscape.1500x844.p56rlg.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1589320582067,
+          "sponsored": false,
+          "description": "As the pandemic struck, scientists resorted to the  clues they had to understand the properties of  the coronavirus that causes COVID-19. ",
+          "photographer": "AP",
+          "type": "wideLandscape",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1589320582067
+        },
+        {
+          "id": 1030724823,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/o/0/d/3/image.related.thumbnail.375x250.p56rlg.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1589320582067,
+          "sponsored": false,
+          "description": "As the pandemic struck, scientists resorted to the  clues they had to understand the properties of  the coronavirus that causes COVID-19. ",
+          "photographer": "AP",
+          "type": "thumbnail",
+          "width": 375,
+          "height": 250,
+          "assetType": "IMAGE",
+          "timeStamp": 1589320582067
+        },
+        {
+          "id": 1030724823,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/o/0/d/3/image.related.afrArticleLead.1536x1010.p56rlg.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1589320582067,
+          "sponsored": false,
+          "description": "As the pandemic struck, scientists resorted to the  clues they had to understand the properties of  the coronavirus that causes COVID-19. ",
+          "photographer": "AP",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1589320582067
+        },
+        {
+          "id": 1030724823,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/o/0/d/3/image.related.articleLeadwide.1500x844.p56rlg.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1589320582067,
+          "sponsored": false,
+          "description": "As the pandemic struck, scientists resorted to the  clues they had to understand the properties of  the coronavirus that causes COVID-19. ",
+          "photographer": "AP",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1589320582067
+        },
+        {
+          "id": 1030724823,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/o/0/d/3/image.related.afrIndexLead.1536x1010.p56rlg.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1589320582067,
+          "sponsored": false,
+          "description": "As the pandemic struck, scientists resorted to the  clues they had to understand the properties of  the coronavirus that causes COVID-19. ",
+          "photographer": "AP",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1589320582067
+        },
+        {
+          "id": 1030724823,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/o/0/d/3/image.related.landscape.1174x783.p56rlg.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1589320582067,
+          "sponsored": false,
+          "description": "As the pandemic struck, scientists resorted to the  clues they had to understand the properties of  the coronavirus that causes COVID-19. ",
+          "photographer": "AP",
+          "type": "landscape",
+          "width": 1174,
+          "height": 783,
+          "assetType": "IMAGE",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1589320582067
+        }
+      ],
+      "signPost": "OPINION",
+      "companies": [],
+      "legalStatus": "None",
+      "sources": [
+        {
+          "tagId": "Washington Post"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "We had anti-virus tools last year, but next time we won't be so lucky",
+        "overrideAbstract": "When the sequence of the virus was published last January, it took only 48 hours to devise a vaccine formula. The next pandemic may catch us unprepared."
+      },
+      "timeStamp": 1609734617000
+    },
+    {
+      "id": 1520368277,
+      "categories": [
+        {
+          "name": "North America",
+          "sectionPath": "/news/world/north-america",
+          "orderNum": 0
+        }
+      ],
+      "authors": [],
+      "url": "http://www.afr.com/news/world/north-america/no-real-case-against-trump-over-georgia-votes-call-20210104-p56ro5",
+      "lastModified": 1609741760478,
+      "sponsored": false,
+      "headline": "No real case against Trump over Georgia votes call",
+      "indexHeadline": "No real case against Trump over Georgia votes call",
+      "tabletHeadline": "",
+      "theAbstract": "The call raised the prospect that the President may have violated laws that prohibit interference in federal or state elections, but lawyers said that it would be difficult to pursue such a charge.",
+      "byLine": "Eric Lipton",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [
+        {
+          "id": 1520368137,
+          "categories": [
+            {
+              "name": "North America",
+              "sectionPath": "/news/world/north-america",
+              "orderNum": 0
+            }
+          ],
+          "authors": [],
+          "url": "http://www.afr.com/news/world/north-america/trump-calls-us-virus-death-toll-of-350-000-exaggerated-20210103-p56rk9",
+          "lastModified": 1609740869965,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Trump calls US virus death toll of 350,000 'exaggerated'",
+          "timeStamp": 1609717012000
+        },
+        {
+          "id": 1520368280,
+          "categories": [
+            {
+              "name": "North America",
+              "sectionPath": "/news/world/north-america",
+              "orderNum": 0
+            }
+          ],
+          "authors": [],
+          "url": "http://www.afr.com/news/world/north-america/republicans-begin-new-congress-feuding-over-bid-to-overturn-election-20210104-p56ro8",
+          "lastModified": 1609740268961,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Republicans begin new Congress feuding over bid to overturn election",
+          "timeStamp": 1609738984000
+        }
+      ],
+      "relatedImages": [
+        {
+          "id": 1030964935,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/t/5/m/v/image.related.wideLandscape.1500x844.p56ro5.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1609711932650,
+          "sponsored": false,
+          "description": "Donald Trump: \"You know what they did and you're not reporting it.\" ",
+          "photographer": "Getty  ",
+          "type": "wideLandscape",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1609711932650
+        },
+        {
+          "id": 1030964935,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/t/5/m/v/image.related.thumbnail.375x250.p56ro5.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1609711932650,
+          "sponsored": false,
+          "description": "Donald Trump: \"You know what they did and you're not reporting it.\" ",
+          "photographer": "Getty  ",
+          "type": "thumbnail",
+          "width": 375,
+          "height": 250,
+          "assetType": "IMAGE",
+          "timeStamp": 1609711932650
+        },
+        {
+          "id": 1030964935,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/t/5/m/v/image.related.afrArticleLead.1536x1010.p56ro5.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1609711932650,
+          "sponsored": false,
+          "description": "Donald Trump: \"You know what they did and you're not reporting it.\" ",
+          "photographer": "Getty  ",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1609711932650
+        },
+        {
+          "id": 1030964935,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/t/5/m/v/image.related.articleLeadwide.1500x844.p56ro5.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1609711932650,
+          "sponsored": false,
+          "description": "Donald Trump: \"You know what they did and you're not reporting it.\" ",
+          "photographer": "Getty  ",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1609711932650
+        },
+        {
+          "id": 1030964935,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/t/5/m/v/image.related.afrIndexLead.1536x1010.p56ro5.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1609711932650,
+          "sponsored": false,
+          "description": "Donald Trump: \"You know what they did and you're not reporting it.\" ",
+          "photographer": "Getty  ",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1609711932650
+        },
+        {
+          "id": 1030964935,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/t/5/m/v/image.related.landscape.1174x783.p56ro5.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1609711932650,
+          "sponsored": false,
+          "description": "Donald Trump: \"You know what they did and you're not reporting it.\" ",
+          "photographer": "Getty  ",
+          "type": "landscape",
+          "width": 1174,
+          "height": 783,
+          "assetType": "IMAGE",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1609711932650
+        },
+        {
+          "id": 1030964902,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/t/5/l/y/image.related.articleLeadNarrow.706x0.p56ro5.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1609708786573,
+          "sponsored": false,
+          "description": "Georgia Secretary of State Brad Raffensperger.",
+          "photographer": "AP",
+          "type": "articleLeadNarrow",
+          "width": 706,
+          "height": 0,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "timeStamp": 1609708786573
+        }
+      ],
+      "companies": [],
+      "legalStatus": "None",
+      "sources": [
+        {
+          "tagId": "The New York Times"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "No real case against Trump over Georgia votes call",
+        "overrideAbstract": "The call raised the prospect that the President may have violated laws that prohibit interference in federal or state elections, but lawyers said that it would be difficult to pursue such a charge."
+      },
+      "timeStamp": 1609741728000
+    },
+    {
+      "id": 1520368171,
+      "categories": [
+        {
+          "name": "Chanticleer",
+          "sectionPath": "/brand/chanticleer",
+          "orderNum": 0
+        }
+      ],
+      "authors": [
+        {
+          "name": "Chanticleer",
+          "title": "Columnist",
+          "email": "",
+          "relatedAssets": [],
+          "relatedImages": [
+            {
+              "id": 1030117386,
+              "categories": [],
+              "brands": [],
+              "authors": [],
+              "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/a/z/n/u/image.imgtype.afrWoodcutAuthorImage.140x140.png/1549519435387.jpg",
+              "lastModified": 1549519435387,
+              "sponsored": false,
+              "description": "",
+              "photographer": "",
+              "type": "afrWoodcutAuthorImage",
+              "width": 140,
+              "height": 140,
+              "assetType": "IMAGE",
+              "timeStamp": 1549519435387
+            },
+            {
+              "id": 67385547,
+              "categories": [],
+              "brands": [],
+              "authors": [],
+              "url": "https://www.fairfaxstatic.com.au/content/dam/images/1/4/4/b/0/r/image.imgtype.afrWoodcutAuthorImage.140x140.png/1426357827234.png",
+              "lastModified": 1426357827234,
+              "sponsored": false,
+              "description": " ",
+              "photographer": "",
+              "type": "afrWoodcutAuthorImage",
+              "width": 140,
+              "height": 140,
+              "assetType": "IMAGE",
+              "timeStamp": 1426357827234
+            }
+          ]
+        }
+      ],
+      "url": "http://www.afr.com/brand/chanticleer/why-investors-need-to-consider-the-great-dispersion-20210104-p56rl7",
+      "lastModified": 1609726490833,
+      "sponsored": false,
+      "headline": "Why investors need to consider The Great Dispersion",
+      "indexHeadline": "Why investors need to consider The Great Dispersion",
+      "tabletHeadline": "",
+      "theAbstract": "US marketing guru Scott Galloway argues the shift towards brands and companies selling directly to consumers created by the pandemic isn't going away, and it's the greatest opportunity for wealth creation in decades.",
+      "byLine": "James Thomson",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [
+        {
+          "id": 1520343996,
+          "categories": [
+            {
+              "name": "World Markets",
+              "sectionPath": "/markets/market-data/world-markets",
+              "orderNum": 0
+            }
+          ],
+          "authors": [
+            {
+              "name": "Jonathan Shapiro",
+              "title": "Senior Reporter",
+              "email": "jonathan.shapiro@afr.com ",
+              "relatedAssets": [],
+              "relatedImages": [
+                {
+                  "id": 1030192045,
+                  "categories": [],
+                  "brands": [],
+                  "authors": [],
+                  "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/c/l/9/p/image.imgtype.afrWoodcutAuthorImage.140x140.png/1553046422192.png",
+                  "lastModified": 1553046422192,
+                  "sponsored": false,
+                  "description": "",
+                  "photographer": "",
+                  "type": "afrWoodcutAuthorImage",
+                  "width": 140,
+                  "height": 140,
+                  "assetType": "IMAGE",
+                  "timeStamp": 1553046422192
+                }
+              ]
+            }
+          ],
+          "url": "http://www.afr.com/markets/market-data/world-markets/markets-taken-by-big-tech-s-jedi-mind-tricks-scott-galloway-20201026-p568xo",
+          "lastModified": 1603803600000,
+          "onTime": 1603803600000,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Markets taken by big tech's Jedi mind tricks: Scott Galloway",
+          "timeStamp": 1603803600000
+        }
+      ],
+      "relatedImages": [
+        {
+          "id": 1030658280,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/m/l/0/o/image.related.wideLandscape.1500x844.p56rl7.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1584489974491,
+          "sponsored": false,
+          "description": "Scott Galloway says the trend of companies selling directly to consumers will continue and the paradigm shift is on a par with globalisation and digitisation.",
+          "photographer": "David Rowe",
+          "type": "wideLandscape",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1584489974491
+        },
+        {
+          "id": 1030658280,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/m/l/0/o/image.related.thumbnail.375x250.p56rl7.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1584489974491,
+          "sponsored": false,
+          "description": "Scott Galloway says the trend of companies selling directly to consumers will continue and the paradigm shift is on a par with globalisation and digitisation.",
+          "photographer": "David Rowe",
+          "type": "thumbnail",
+          "width": 375,
+          "height": 250,
+          "assetType": "IMAGE",
+          "timeStamp": 1584489974491
+        },
+        {
+          "id": 1030658280,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/m/l/0/o/image.related.afrIndexLead.1536x1010.p56rl7.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1584489974491,
+          "sponsored": false,
+          "description": "Scott Galloway says the trend of companies selling directly to consumers will continue and the paradigm shift is on a par with globalisation and digitisation.",
+          "photographer": "David Rowe",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1584489974491
+        },
+        {
+          "id": 1030658280,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/m/l/0/o/image.related.landscape.1174x783.p56rl7.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1584489974491,
+          "sponsored": false,
+          "description": "Scott Galloway says the trend of companies selling directly to consumers will continue and the paradigm shift is on a par with globalisation and digitisation.",
+          "photographer": "David Rowe",
+          "type": "landscape",
+          "width": 1174,
+          "height": 783,
+          "assetType": "IMAGE",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1584489974491
+        }
+      ],
+      "signPost": "OPINION",
+      "companies": [],
+      "legalStatus": "None",
+      "sources": [
+        {
+          "tagId": "AFR"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "Why investors need to consider The Great Dispersion",
+        "overrideAbstract": "US marketing guru Scott Galloway argues the shift towards brands and companies selling directly to consumers created by the pandemic isn't going away, and it's the greatest opportunity for wealth creation in decades."
+      },
+      "timeStamp": 1609724437000
+    },
+    {
+      "id": 1520361579,
+      "categories": [
+        {
+          "name": "Leadership",
+          "sectionPath": "/leadership",
+          "orderNum": 0
+        }
+      ],
+      "authors": [
+        {
+          "name": "Sally Patten",
+          "title": "BOSS Editor",
+          "email": "spatten@afr.com ",
+          "relatedAssets": [],
+          "relatedImages": [
+            {
+              "id": 1030192484,
+              "categories": [],
+              "brands": [],
+              "authors": [],
+              "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/c/l/l/w/image.imgtype.afrWoodcutAuthorImage.140x140.png/1553053454261.png",
+              "lastModified": 1553053454261,
+              "sponsored": false,
+              "description": "",
+              "photographer": "",
+              "type": "afrWoodcutAuthorImage",
+              "width": 140,
+              "height": 140,
+              "assetType": "IMAGE",
+              "timeStamp": 1553053454261
+            }
+          ]
+        }
+      ],
+      "url": "http://www.afr.com/leadership/why-this-ceo-is-learning-to-meditate-20201210-p56mi3",
+      "lastModified": 1609716919440,
+      "sponsored": false,
+      "headline": "Why this CEO is learning to meditate",
+      "indexHeadline": "Why this CEO is learning to meditate",
+      "tabletHeadline": "",
+      "theAbstract": "CEOs from Telstra, South32, Evolution Mining, Aware Super and Bendigo and Adelaide Bank reveal the new skills they are learning as they look towards 2021.",
+      "byLine": "Sally Patten",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [],
+      "relatedImages": [
+        {
+          "id": 1030956943,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/s/z/g/v/image.related.afrArticleLead.1536x1010.p56mi3.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1608613844570,
+          "sponsored": false,
+          "description": "Evolution Mining executive chairman Jake Klein is learning to meditate to deal with the added \"mental noise\".",
+          "photographer": "Peter Braig",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1608613844570
+        },
+        {
+          "id": 1030956943,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/s/z/g/v/image.related.articleLeadwide.1500x844.p56mi3.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1608613844570,
+          "sponsored": false,
+          "description": "Evolution Mining executive chairman Jake Klein is learning to meditate to deal with the added \"mental noise\".",
+          "photographer": "Peter Braig",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1608613844570
+        },
+        {
+          "id": 1030918282,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/s/5/m/y/image.related.articleLeadwide.1500x844.p56mi3.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1605157672308,
+          "sponsored": false,
+          "description": "Telstra CEO Andy Penn is taking more time to ask people how they are and \"really listen to the answer.\"",
+          "photographer": "Josh Robenstone",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1605157672308
+        },
+        {
+          "id": 1030918282,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/s/5/m/y/image.related.afrArticleInline.620x0.p56mi3.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1605157672308,
+          "sponsored": false,
+          "description": "Telstra CEO Andy Penn is taking more time to ask people how they are and \"really listen to the answer.\"",
+          "photographer": "Josh Robenstone",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1605157672308
+        },
+        {
+          "id": 1030866052,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/r/1/c/4/image.related.articleLeadNarrow.706x0.p56mi3.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1601350457009,
+          "sponsored": false,
+          "description": "Leaders are often not great at delivering feedback in real time in an unemotional way, says South32 chief executive Graham Kerr.   ",
+          "photographer": "Trevor Collens",
+          "type": "articleLeadNarrow",
+          "width": 706,
+          "height": 0,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "timeStamp": 1601350457009
+        },
+        {
+          "id": 1030781940,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/p/8/f/o/image.related.articleLeadNarrow.706x0.p56mi3.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1594182699113,
+          "sponsored": false,
+          "description": "\"As a leader, deeply connecting and communicating with your team and stakeholders is such an important aspect of your role,\" says Aware Super CEO Deanne Stewart. ",
+          "photographer": "Supplied",
+          "type": "articleLeadNarrow",
+          "width": 706,
+          "height": 0,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "timeStamp": 1594182699113
+        },
+        {
+          "id": 1030399785,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/h/1/k/9/image.related.articleLeadwide.1500x844.p56mi3.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1565603651463,
+          "sponsored": false,
+          "description": "Almost no business travel in 2020 meant Bendigo and Adelaide Bank CEO could have dinner with her family every night. ",
+          "photographer": " Wayne Taylor",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1565603651463
+        },
+        {
+          "id": 1030399785,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/h/1/k/9/image.related.afrArticleInline.620x0.p56mi3.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1565603651463,
+          "sponsored": false,
+          "description": "Almost no business travel in 2020 meant Bendigo and Adelaide Bank CEO could have dinner with her family every night. ",
+          "photographer": " Wayne Taylor",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1565603651463
+        },
+        {
+          "id": 1030956940,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/s/z/g/s/image.related.wideLandscape.1500x844.p56mi3.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1608613843492,
+          "sponsored": false,
+          "description": "Jake Klein, CEO Evolution Mining. This is for a story on what new skills bosses are learning as we head into 2021. Jake Klein is learning how to meditate, so we would like a shot of him looking calm, somewhere calm.\nPhoto by Peter Braig . 22 December 2020",
+          "photographer": "Peter Braig",
+          "type": "wideLandscape",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1608613843492
+        },
+        {
+          "id": 1030956940,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/s/z/g/s/image.related.thumbnail.375x250.p56mi3.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1608613843492,
+          "sponsored": false,
+          "description": "Jake Klein, CEO Evolution Mining. This is for a story on what new skills bosses are learning as we head into 2021. Jake Klein is learning how to meditate, so we would like a shot of him looking calm, somewhere calm.\nPhoto by Peter Braig . 22 December 2020",
+          "photographer": "Peter Braig",
+          "type": "thumbnail",
+          "width": 375,
+          "height": 250,
+          "assetType": "IMAGE",
+          "timeStamp": 1608613843492
+        },
+        {
+          "id": 1030956940,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/s/z/g/s/image.related.afrIndexLead.1536x1010.p56mi3.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1608613843492,
+          "sponsored": false,
+          "description": "Jake Klein, CEO Evolution Mining. This is for a story on what new skills bosses are learning as we head into 2021. Jake Klein is learning how to meditate, so we would like a shot of him looking calm, somewhere calm.\nPhoto by Peter Braig . 22 December 2020",
+          "photographer": "Peter Braig",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1608613843492
+        },
+        {
+          "id": 1030956940,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/s/z/g/s/image.related.landscape.1174x783.p56mi3.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1608613843492,
+          "sponsored": false,
+          "description": "Jake Klein, CEO Evolution Mining. This is for a story on what new skills bosses are learning as we head into 2021. Jake Klein is learning how to meditate, so we would like a shot of him looking calm, somewhere calm.\nPhoto by Peter Braig . 22 December 2020",
+          "photographer": "Peter Braig",
+          "type": "landscape",
+          "width": 1174,
+          "height": 783,
+          "assetType": "IMAGE",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1608613843492
+        }
+      ],
+      "companies": [
+        {
+          "id": 997018116,
+          "companyCode": "TLS",
+          "companyName": "TELSTRA CORPORATION LIMITED.",
+          "abbreviatedName": "Telstra Corporation.",
+          "exchange": "ASX",
+          "companyNumber": "51775556"
+        },
+        {
+          "id": 997132161,
+          "companyCode": "EVN",
+          "companyName": "EVOLUTION MINING LIMITED",
+          "abbreviatedName": "Evolution Mining Ltd",
+          "exchange": "ASX"
+        },
+        {
+          "id": 997016405,
+          "companyCode": "BEN",
+          "companyName": "BENDIGO AND ADELAIDE BANK LIMITED",
+          "abbreviatedName": "Bendigo And Adelaide",
+          "exchange": "ASX",
+          "companyNumber": "68049178"
+        }
+      ],
+      "legalStatus": "None",
+      "sources": [
+        {
+          "tagId": "AFR"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "Why this CEO is learning to meditate",
+        "overrideAbstract": "CEOs from Telstra, South32, Evolution Mining, Aware Super and Bendigo and Adelaide Bank reveal the new skills they are learning as they look towards 2021."
+      },
+      "timeStamp": 1609716908000
+    },
+    {
+      "id": 1520360930,
+      "categories": [
+        {
+          "name": "North America",
+          "sectionPath": "/news/world/north-america",
+          "orderNum": 0
+        }
+      ],
+      "authors": [],
+      "url": "http://www.afr.com/news/world/north-america/the-costly-legacy-of-jared-kushner-s-real-estate-gambles-20201209-p56m02",
+      "lastModified": 1609700337442,
+      "sponsored": false,
+      "headline": "The costly legacy of Jared Kushner's real estate gambles",
+      "indexHeadline": "The costly legacy of Jared Kushner's real estate gambles",
+      "tabletHeadline": "",
+      "theAbstract": "The family company that Donald Trump's son-in-law once ran has spent the better part of the past four years unwinding its scion's New York property bets.",
+      "byLine": "Caleb Melby and David Kocieniewski",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [
+        {
+          "id": 1028605413,
+          "categories": [
+            {
+              "name": "North America",
+              "sectionPath": "/news/world/north-america",
+              "orderNum": 1
+            },
+            {
+              "name": "Real Estate",
+              "sectionPath": "/real-estate",
+              "orderNum": 0
+            }
+          ],
+          "authors": [],
+          "url": "http://www.afr.com/news/world/north-america/jared-kushners-family-company-subpoenaed-over-visa-program-for-wealthy-20180107-h0el0l",
+          "lastModified": 1515305055555,
+          "onTime": 1515289258000,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Jared Kushner's family company subpoenaed over visa program for wealthy",
+          "timeStamp": 1515305055419
+        },
+        {
+          "id": 1520355442,
+          "categories": [
+            {
+              "name": "North America",
+              "sectionPath": "/news/world/north-america",
+              "orderNum": 0
+            }
+          ],
+          "authors": [],
+          "url": "http://www.afr.com/news/world/north-america/ivanka-and-jared-look-for-a-new-beginning-20201124-p56hrm",
+          "lastModified": 1606367306139,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Ivanka and Jared look for a new beginning",
+          "timeStamp": 1606338000000
+        },
+        {
+          "id": 1030020283,
+          "categories": [
+            {
+              "name": "Middle East",
+              "sectionPath": "/news/world/middle-east",
+              "orderNum": 1
+            },
+            {
+              "name": "World",
+              "sectionPath": "/news/politics/world",
+              "orderNum": 0
+            }
+          ],
+          "authors": [],
+          "url": "http://www.afr.com/news/politics/world/how-trump-adviser-jared-kushner-became-saudi-arabia-and-mbs-new-best-friend-20181209-h18wqj",
+          "lastModified": 1544359500000,
+          "onTime": 1544359500000,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "How Trump adviser Jared Kushner became Saudi Arabia and MBS' new best friend",
+          "timeStamp": 1544359500000
+        },
+        {
+          "id": 1029499098,
+          "categories": [
+            {
+              "name": "North America",
+              "sectionPath": "/news/world/north-america",
+              "orderNum": 3
+            },
+            {
+              "name": "Residential",
+              "sectionPath": "/real-estate/residential",
+              "orderNum": 2
+            },
+            {
+              "name": "Real Estate",
+              "sectionPath": "/real-estate",
+              "orderNum": 1
+            },
+            {
+              "name": "Tax",
+              "sectionPath": "/news/policy/tax",
+              "orderNum": 0
+            }
+          ],
+          "authors": [],
+          "url": "http://www.afr.com/real-estate/tenants-group-alleges-kushner-companies-falsified-permits-20180320-h0xql6",
+          "lastModified": 1521533114824,
+          "onTime": 1521528671000,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Tenants group alleges Kushner Companies falsified permits",
+          "timeStamp": 1521529749502
+        }
+      ],
+      "relatedImages": [
+        {
+          "id": 1030935556,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/s/i/y/s/image.related.afrArticleLead.1536x1010.p56m02.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1606723048416,
+          "sponsored": false,
+          "description": "President Donald Trump's White House Senior Adviser Jared Kushner and Ivanka Trump, the daughter of President Trump, at the White House after the 2020 US election.",
+          "photographer": "AP Photo",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1606723048416
+        },
+        {
+          "id": 1030935556,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/s/i/y/s/image.related.articleLeadwide.1500x844.p56m02.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1606723048416,
+          "sponsored": false,
+          "description": "President Donald Trump's White House Senior Adviser Jared Kushner and Ivanka Trump, the daughter of President Trump, at the White House after the 2020 US election.",
+          "photographer": "AP Photo",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1606723048416
+        },
+        {
+          "id": 1029618806,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/0/a/y/e/image.related.articleLeadwide.1500x844.p56m02.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1526800155911,
+          "sponsored": false,
+          "description": "The 2018 sale of 666 Fifth Ave. was necessary to pay off a loan incurred in 2007, at the peak of the market, when Kushner Companies purchased the office tower for a then-record $US1.8 billion.",
+          "photographer": "AP",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1526800155911
+        },
+        {
+          "id": 1029618806,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/0/a/y/e/image.related.afrArticleInline.620x0.p56m02.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1526800155911,
+          "sponsored": false,
+          "description": "The 2018 sale of 666 Fifth Ave. was necessary to pay off a loan incurred in 2007, at the peak of the market, when Kushner Companies purchased the office tower for a then-record $US1.8 billion.",
+          "photographer": "AP",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1526800155911
+        },
+        {
+          "id": 1030949762,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/s/t/x/e/image.related.wideLandscape.1500x844.p56m02.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1608001221736,
+          "sponsored": false,
+          "description": "Since Jared Kushner departed his role in the family real estate business to become an adviser for President Trump, his father Charles has been undoing many of the decisions made by his son. ",
+          "photographer": "Getty",
+          "type": "wideLandscape",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1608001221736
+        },
+        {
+          "id": 1030949762,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/s/t/x/e/image.related.thumbnail.375x250.p56m02.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1608001221736,
+          "sponsored": false,
+          "description": "Since Jared Kushner departed his role in the family real estate business to become an adviser for President Trump, his father Charles has been undoing many of the decisions made by his son. ",
+          "photographer": "Getty",
+          "type": "thumbnail",
+          "width": 375,
+          "height": 250,
+          "assetType": "IMAGE",
+          "timeStamp": 1608001221736
+        },
+        {
+          "id": 1030949762,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/s/t/x/e/image.related.afrIndexLead.1536x1010.p56m02.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1608001221736,
+          "sponsored": false,
+          "description": "Since Jared Kushner departed his role in the family real estate business to become an adviser for President Trump, his father Charles has been undoing many of the decisions made by his son. ",
+          "photographer": "Getty",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1608001221736
+        },
+        {
+          "id": 1030949762,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/s/t/x/e/image.related.landscape.1174x783.p56m02.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1608001221736,
+          "sponsored": false,
+          "description": "Since Jared Kushner departed his role in the family real estate business to become an adviser for President Trump, his father Charles has been undoing many of the decisions made by his son. ",
+          "photographer": "Getty",
+          "type": "landscape",
+          "width": 1174,
+          "height": 783,
+          "assetType": "IMAGE",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1608001221736
+        }
+      ],
+      "companies": [],
+      "legalStatus": "None",
+      "sources": [
+        {
+          "tagId": "Bloomberg"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "The costly legacy of Jared Kushner's real estate gambles",
+        "overrideAbstract": "The family company that Donald Trump's son-in-law once ran has spent the better part of the past four years unwinding its scion's New York property bets."
+      },
+      "timeStamp": 1609700318000
+    },
+    {
+      "id": 1520368079,
+      "categories": [
+        {
+          "name": "Health",
+          "sectionPath": "/lifestyle/health",
+          "orderNum": 0
+        }
+      ],
+      "authors": [],
+      "url": "http://www.afr.com/lifestyle/health/an-easy-to-sip-guide-on-quitting-booze-for-a-month-20210103-p56rin",
+      "lastModified": 1609718850127,
+      "sponsored": false,
+      "headline": "An easy-to-sip guide on quitting booze for a month",
+      "indexHeadline": "An easy-to-sip guide on quitting booze for a month",
+      "tabletHeadline": "",
+      "theAbstract": "New book 'The Dry Challenge' is a fun look at what readers can gain by setting down the glass – from extra money to better sleep and clearer skin.",
+      "byLine": "Erin Blakemore",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [
+        {
+          "id": 1520346631,
+          "categories": [
+            {
+              "name": "North America",
+              "sectionPath": "/news/world/north-america",
+              "orderNum": 0
+            }
+          ],
+          "authors": [],
+          "url": "http://www.afr.com/news/world/north-america/why-donald-trump-and-joe-biden-don-t-drink-alcohol-20201102-p56ayv",
+          "lastModified": 1604367966156,
+          "sponsored": false,
+          "assetType": "ARTICLE",
+          "headline": "Why Donald Trump and Joe Biden don't drink alcohol",
+          "timeStamp": 1604363400000
+        }
+      ],
+      "relatedImages": [
+        {
+          "id": 1030922497,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/s/8/w/1/image.related.articleLeadNarrow.706x0.p56rin.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1605584747910,
+          "sponsored": false,
+          "description": "Will you be giving it up?",
+          "photographer": "iStock",
+          "type": "articleLeadNarrow",
+          "width": 706,
+          "height": 0,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "timeStamp": 1605584747910
+        },
+        {
+          "id": 1030646621,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/m/c/0/t/image.related.wideLandscape.1500x844.p56rin.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1583459209168,
+          "sponsored": false,
+          "description": "Will you be giving it up?",
+          "photographer": " ",
+          "type": "wideLandscape",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1583459209168
+        },
+        {
+          "id": 1030646621,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/m/c/0/t/image.related.thumbnail.375x250.p56rin.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1583459209168,
+          "sponsored": false,
+          "description": "Will you be giving it up?",
+          "photographer": " ",
+          "type": "thumbnail",
+          "width": 375,
+          "height": 250,
+          "assetType": "IMAGE",
+          "timeStamp": 1583459209168
+        },
+        {
+          "id": 1030646621,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/m/c/0/t/image.related.afrIndexLead.1536x1010.p56rin.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1583459209168,
+          "sponsored": false,
+          "description": "Will you be giving it up?",
+          "photographer": " ",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1583459209168
+        },
+        {
+          "id": 1030646621,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/m/c/0/t/image.related.landscape.1174x783.p56rin.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1583459209168,
+          "sponsored": false,
+          "description": "Will you be giving it up?",
+          "photographer": " ",
+          "type": "landscape",
+          "width": 1174,
+          "height": 783,
+          "assetType": "IMAGE",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1583459209168
+        }
+      ],
+      "companies": [],
+      "legalStatus": "None",
+      "sources": [
+        {
+          "tagId": "Washington Post"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "An easy-to-sip guide on quitting booze for a month",
+        "overrideAbstract": "New book 'The Dry Challenge' is a fun look at what readers can gain by setting down the glass – from extra money to better sleep and clearer skin."
+      },
+      "timeStamp": 1609705882000
+    },
+    {
+      "id": 1520361755,
+      "categories": [
+        {
+          "name": "Media & Marketing",
+          "sectionPath": "/business/media-and-marketing",
+          "orderNum": 0
+        }
+      ],
+      "authors": [],
+      "url": "http://www.afr.com/business/media-and-marketing/how-netflix-changed-the-channel-20201210-p56mmz",
+      "lastModified": 1609700363232,
+      "sponsored": false,
+      "headline": "How Netflix changed the channel",
+      "indexHeadline": "How Netflix changed the channel",
+      "tabletHeadline": "",
+      "theAbstract": "The unorthodox philosophy that transformed a struggling mail-order DVD company into one of the tech industry's great powers.",
+      "byLine": "Ian Leslie",
+      "acceptComments": false,
+      "numberOfComments": 0,
+      "relatedAssets": [],
+      "relatedImages": [
+        {
+          "id": 1030851932,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/q/q/f/w/image.related.afrArticleLead.1536x1010.p56mmz.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1600144256152,
+          "sponsored": false,
+          "description": "How it began: Netflix co-founder Reed Hastings looks through DVD envelopes in 2005.",
+          "photographer": "Bloomberg",
+          "type": "afrArticleLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "large@2x": "",
+          "timeStamp": 1600144256152
+        },
+        {
+          "id": 1030851932,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/q/q/f/w/image.related.articleLeadwide.1500x844.p56mmz.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1600144256152,
+          "sponsored": false,
+          "description": "How it began: Netflix co-founder Reed Hastings looks through DVD envelopes in 2005.",
+          "photographer": "Bloomberg",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1600144256152
+        },
+        {
+          "id": 1030484188,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/i/u/o/s/image.related.articleLeadwide.1500x844.p56mmz.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1571027688784,
+          "sponsored": false,
+          "description": "Director Martin Scorsese flanked by stars Al Pacino and Robert De Niro at a premiere of The Irishman, made for Netflix. ",
+          "photographer": "AP",
+          "type": "articleLeadWide",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1571027688784
+        },
+        {
+          "id": 1030484188,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/i/u/o/s/image.related.afrArticleInline.620x0.p56mmz.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1571027688784,
+          "sponsored": false,
+          "description": "Director Martin Scorsese flanked by stars Al Pacino and Robert De Niro at a premiere of The Irishman, made for Netflix. ",
+          "photographer": "AP",
+          "type": "afrArticleInline",
+          "width": 620,
+          "height": 0,
+          "assetType": "IMAGE",
+          "timeStamp": 1571027688784
+        },
+        {
+          "id": 1030917413,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/s/4/y/t/image.related.articleLeadNarrow.706x0.p56mmz.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1605137311570,
+          "sponsored": false,
+          "description": "The Queen's Gambit was conceived in the traditional way - the director pitched the story and it became Netflix's most-watched miniseries.",
+          "photographer": "Netflix",
+          "type": "articleLeadNarrow",
+          "width": 706,
+          "height": 0,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "timeStamp": 1605137311570
+        },
+        {
+          "id": 1030914257,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/s/2/j/5/image.related.wideLandscape.1500x844.p56mmz.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1605764290211,
+          "sponsored": false,
+          "description": "Â AFR Life and Leisure stills fromÂ The Crown.Â \n*** Please note any use of the image of Diana in the wedding dress must be accompanied by the text in the description area of the image metadata.***Â \nThe Crown S4. Picture shows: Princess Diana (EMMA CORRIN) and Prince Charles (JOSH O CONNOR). Filming Location: Kensington Town Hall .",
+          "photographer": "Alex Bailey",
+          "type": "wideLandscape",
+          "width": 1500,
+          "height": 844,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1605764290211
+        },
+        {
+          "id": 1030914257,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/s/2/j/5/image.related.thumbnail.375x250.p56mmz.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1605764290211,
+          "sponsored": false,
+          "description": "Â AFR Life and Leisure stills fromÂ The Crown.Â \n*** Please note any use of the image of Diana in the wedding dress must be accompanied by the text in the description area of the image metadata.***Â \nThe Crown S4. Picture shows: Princess Diana (EMMA CORRIN) and Prince Charles (JOSH O CONNOR). Filming Location: Kensington Town Hall .",
+          "photographer": "Alex Bailey",
+          "type": "thumbnail",
+          "width": 375,
+          "height": 250,
+          "assetType": "IMAGE",
+          "timeStamp": 1605764290211
+        },
+        {
+          "id": 1030914257,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/s/2/j/5/image.related.afrIndexLead.1536x1010.p56mmz.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1605764290211,
+          "sponsored": false,
+          "description": "Â AFR Life and Leisure stills fromÂ The Crown.Â \n*** Please note any use of the image of Diana in the wedding dress must be accompanied by the text in the description area of the image metadata.***Â \nThe Crown S4. Picture shows: Princess Diana (EMMA CORRIN) and Prince Charles (JOSH O CONNOR). Filming Location: Kensington Town Hall .",
+          "photographer": "Alex Bailey",
+          "type": "afrIndexLead",
+          "width": 1536,
+          "height": 1010,
+          "assetType": "IMAGE",
+          "xLarge@2x": "",
+          "xLarge": "",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1605764290211
+        },
+        {
+          "id": 1030914257,
+          "categories": [],
+          "brands": [],
+          "authors": [],
+          "url": "https://www.fairfaxstatic.com.au/content/dam/images/h/1/s/2/j/5/image.related.landscape.1174x783.p56mmz.13zzqx.png/1609754551711.jpg",
+          "lastModified": 1605764290211,
+          "sponsored": false,
+          "description": "Â AFR Life and Leisure stills fromÂ The Crown.Â \n*** Please note any use of the image of Diana in the wedding dress must be accompanied by the text in the description area of the image metadata.***Â \nThe Crown S4. Picture shows: Princess Diana (EMMA CORRIN) and Prince Charles (JOSH O CONNOR). Filming Location: Kensington Town Hall .",
+          "photographer": "Alex Bailey",
+          "type": "landscape",
+          "width": 1174,
+          "height": 783,
+          "assetType": "IMAGE",
+          "large@2x": "",
+          "large": "",
+          "thumbnail@2x": "",
+          "thumbnail": "",
+          "timeStamp": 1605764290211
+        }
+      ],
+      "companies": [],
+      "legalStatus": "None",
+      "sources": [
+        {
+          "tagId": "New Statesman"
+        }
+      ],
+      "assetType": "ARTICLE",
+      "overrides": {
+        "overrideHeadline": "How Netflix changed the channel",
+        "overrideAbstract": "The unorthodox philosophy that transformed a struggling mail-order DVD company into one of the tech industry's great powers."
+      },
+      "timeStamp": 1609700352000
+    }
+  ],
+  "relatedAssets": [],
+  "relatedImages": [],
+  "assetType": "ASSET_LIST",
+  "timeStamp": 1609754549282
+}

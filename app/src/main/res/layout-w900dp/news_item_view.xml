@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools">
+
+	<data>
+
+		<variable
+			name="model"
+			type="com.android.task.newsstoriessample.model.NewsItem" />
+	</data>
+
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_margin="1dp"
+		android:background="@{model.selected ? @color/selected_item_color : @color/white}"
+		android:onClick="@{() -> model.onClick()}"
+		android:orientation="horizontal"
+		tools:context=".fragments.NewsWebViewFragment">
+
+		<ImageView
+			android:layout_width="0dp"
+			android:layout_height="match_parent"
+			android:layout_weight="2"
+			android:contentDescription="@{model.headline}"
+			android:minHeight="@dimen/image_min_height"
+			android:padding="@dimen/spacing_tiny"
+			android:scaleType="fitCenter"
+			app:srcBitMap="@{model.displayImage}"
+			tools:src="@drawable/abc_vector_test" />
+
+
+		<LinearLayout
+			android:layout_width="0dp"
+			android:layout_height="match_parent"
+			android:layout_weight="5"
+			android:orientation="vertical">
+			<!--			android:background="@{model.selected ? @color/selected_item_color : @color/white}"-->
+
+			<TextView
+				style="?android:attr/textAppearanceLarge"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:padding="@dimen/spacing_small"
+				android:text="@{model.headline}"
+				tools:text="This is nice big headline." />
+
+			<TextView
+				style="?android:attr/textAppearance"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:padding="@dimen/spacing_small"
+				android:text="@{model.theAbstract}"
+				tools:text="This is news long long description." />
+
+			<TextView
+				style="?android:attr/textAppearanceMedium"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_gravity="end"
+				android:gravity="end"
+				android:padding="@dimen/spacing_small"
+				android:text="@{model.byLine}"
+				tools:text="Author name" />
+		</LinearLayout>
+
+	</LinearLayout>
+</layout>

@@ -1,0 +1,121 @@
+apply plugin: "com.android.application"
+apply plugin: "kotlin-android"
+apply plugin: "kotlin-kapt"
+apply plugin: 'jacoco'
+
+jacoco {
+	toolVersion("0.8.4")
+}
+
+task jacocoTestReport(
+		type: JacocoReport,
+		dependsOn: ['testDebugUnitTest']
+) {
+	reports {
+		csv.enabled false
+		xml.enabled true
+		html {
+			enabled true
+			destination file("${buildDir}/coverage-report")
+		}
+	}
+	def projectBuildDir = "${buildDir}"
+
+	def mainSrc = "$projectDir/src/main/java"
+	sourceDirectories.from = files([mainSrc])
+
+	def fileExcludeFilter = [
+			'**/*App.*',
+			'**/*Activity.*',
+			'**/*WebViewClient.*',
+			'**/*Fragment.*',
+			'**/*Adapter*.*'
+			]
+	def debugTree = fileTree(
+			dir: "$buildDir/tmp/kotlin-classes/debug/com/android/task/newsstoriessample",
+			excludes: fileExcludeFilter
+	)
+	classDirectories.from = files([debugTree])
+
+	executionData.from = fileTree(
+			dir: projectBuildDir,
+			includes: [
+					'jacoco/testDebugUnitTest.exec',
+					'outputs/code-coverage/connected/*coverage.ec'
+			]
+	)
+}
+
+android {
+	compileSdkVersion 30
+	buildToolsVersion "29.0.3"
+
+	defaultConfig {
+		applicationId "com.android.task.newsstoriessample"
+		minSdkVersion 16
+		targetSdkVersion 30
+		versionCode 1
+		versionName "1.0"
+		multiDexEnabled true
+
+		testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+	}
+
+	buildFeatures {
+		dataBinding = true
+	}
+
+	buildTypes {
+		debug {
+			testCoverageEnabled = true
+			minifyEnabled false
+			proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+		}
+	}
+	compileOptions {
+		sourceCompatibility JavaVersion.VERSION_1_8
+		targetCompatibility JavaVersion.VERSION_1_8
+	}
+	kotlinOptions {
+		jvmTarget = '1.8'
+	}
+
+	testOptions {
+		unitTests.returnDefaultValues = true
+		unitTests.all {
+			jacoco {
+				includeNoLocationClasses = false
+			}
+		}
+	}
+}
+
+dependencies {
+
+	implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
+	implementation 'androidx.core:core-ktx:1.3.2'
+	implementation 'androidx.appcompat:appcompat:1.2.0'
+	implementation 'com.google.android.material:material:1.2.1'
+	implementation 'androidx.recyclerview:recyclerview:1.1.0'
+
+	implementation "com.squareup.retrofit2:adapter-rxjava2:2.4.0"
+	implementation "com.squareup.retrofit2:converter-gson:2.4.0"
+	implementation "com.squareup.retrofit2:retrofit:2.4.0"
+	implementation "io.reactivex.rxjava2:rxandroid:2.1.1"
+	implementation "io.reactivex.rxjava2:rxjava:2.2.17"
+	implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0"
+
+	implementation 'com.android.support:multidex:1.0.3'
+	implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0'
+
+	testImplementation 'junit:junit:4.13.1'
+	testImplementation "org.mockito:mockito-core:3.3.0"
+
+	// Dependency for Android instrumentation tests. Mock Server. Need to keep older version for right version dependency.
+	implementation "com.squareup.okhttp3:mockwebserver:3.10.0"
+
+	androidTestImplementation 'androidx.test.ext:junit:1.1.2'
+	androidTestImplementation 'androidx.test:rules:1.3.0'
+	androidTestImplementation 'androidx.test:runner:1.3.0'
+	androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+}
