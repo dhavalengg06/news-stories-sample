@@ -16,3 +16,4 @@ object TestData {
 // com.android.task.newsstoriessample.utils.DividerUtil
 // com.android.task.newsstoriessample.fragments.*
 // com.android.task.newsstoriessample.NewsSampleActivity
+// ./gradlew jacocoTestReport
